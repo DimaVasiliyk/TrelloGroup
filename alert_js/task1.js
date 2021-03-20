@@ -1,2 +1,1 @@
-alert("Я JavaScript!");
-//аощаощавощ
+console.log("Я JavaScript!");
